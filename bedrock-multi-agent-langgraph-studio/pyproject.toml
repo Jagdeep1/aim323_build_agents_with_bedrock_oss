@@ -6,9 +6,9 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "boto3>=1.35.87",
-    "langchain-aws>=0.2.10",
+    "langchain-aws>=0.2.24",
     "langgraph-cli[inmem]>=0.1.65",
-    "langgraph>=0.2.60",
+    "langgraph>=0.4.7",
     "pandas>=2.2.3",
 ]
 
